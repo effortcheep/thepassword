@@ -1,0 +1,15 @@
+{
+  "name": "@repo/eslint-config",
+  "type": "module",
+  "version": "0.0.1",
+  "packageManager": "pnpm@10.11.0",
+  "private": true,
+  "exports": {
+    "./create-config": "./create-config.js"
+  },
+  "devDependencies": {
+    "@antfu/eslint-config": "^5.2.1",
+    "eslint": "^9.33.0",
+    "eslint-plugin-format": "^1.0.1"
+  }
+}

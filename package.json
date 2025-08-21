@@ -1,0 +1,16 @@
+{
+  "name": "thepassword",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "turbo run dev",
+    "build": "turbo run build",
+    "lint": "turbo run lint"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "packageManager": "pnpm@10.11.0",
+  "devDependencies": {
+    "turbo": "^2.5.6"
+  }
+}
