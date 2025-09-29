@@ -11,7 +11,6 @@ export default function createConfig(options = {}, ...userConfigs) {
     ...options,
   }, {
     rules: {
-
       'ts/consistent-type-definitions': ['error', 'type'],
       'no-console': ['warn'],
       'antfu/no-top-level-await': ['off'],

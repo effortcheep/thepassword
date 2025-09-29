@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "scripts": {
     "dev": "turbo run dev",
+    "android": "cd apps/aegis-app && pnpm run android",
     "build": "turbo run build",
     "lint": "turbo run lint"
   },

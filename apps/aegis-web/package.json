@@ -1,5 +1,5 @@
 {
-  "name": "@repo/aegis-web",
+  "name": "@app/aegis-web",
   "type": "module",
   "engines": {
     "node": ">=22"
